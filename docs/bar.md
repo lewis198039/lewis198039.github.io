@@ -1,6 +1,6 @@
 ---
 title: Bar
 layout: default
-permalink: /bar
+permalink: /bar/
 ---
 Hello, world
